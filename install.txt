@@ -1,0 +1,9 @@
+en el dir config dejar un file: ".env"
+GROQ_API_KEY= tu_apikey
+GROQ_LLM_MODEL=llama3-70b-8192
+GROQ_BASE_URL=https://api.groq.com/openai/v1
+TWILIO_ACCOUNT_SID=tu_key
+TWILIO_AUTH_TOKEN=tu_toke
+TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886 #mantener siempre este numero, es de TWILIO
+DEST_WHATSAPP_NUMBER=whatsapp:tu_numero
+
