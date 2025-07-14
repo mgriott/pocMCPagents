@@ -1,0 +1,9 @@
+autogen
+python-dotenv
+requests
+openai
+ag2[openai]
+pyyaml
+twilio
+faiss-cpu
+sentence-transformers

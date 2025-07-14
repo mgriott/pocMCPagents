@@ -1,0 +1,23 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+
+# Configuración sensible
+.env
+.env.local
+.txt
+
+# Comprimidos
+*.zip
+*.tar.gz
+*.7z
+
+*.pkl
+*.bin
+*.log
+
+# Node / JS
+node_modules/
