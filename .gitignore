@@ -8,7 +8,6 @@ __pycache__/
 # Configuración sensible
 .env
 .env.local
-.txt
 
 # Comprimidos
 *.zip
