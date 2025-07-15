@@ -1,12 +1,17 @@
-en el dir config dejar un file: ".env"
+##En el dir "/config" dejar un file: "/config/.env":
 GROQ_API_KEY= tu_apikey
 GROQ_LLM_MODEL=llama3-70b-8192
 GROQ_BASE_URL=https://api.groq.com/openai/v1
 TWILIO_ACCOUNT_SID=tu_key
 TWILIO_AUTH_TOKEN=tu_toke
-TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886 #mantener siempre este numero, es de TWILIO
+TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886 ##mantener siempre este numero, es de TWILIO
 DEST_WHATSAPP_NUMBER=whatsapp:tu_numero
 
+########
+GROQ: Generar cuenta en groq, then: generar "api key groq"
+TWILIO: Generar cuenta free en twilio, then: configura tu numero y envia mensaje wasap a numero de twilio:+14155238886  "join silk-kids"  
+
+########
 Command run: 
 generar el venv para tu ambiente..
 then:
