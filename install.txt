@@ -7,3 +7,8 @@ TWILIO_AUTH_TOKEN=tu_toke
 TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886 #mantener siempre este numero, es de TWILIO
 DEST_WHATSAPP_NUMBER=whatsapp:tu_numero
 
+Command run: 
+generar el venv para tu ambiente..
+then:
+.\venv\Scripts\Activate.ps1
+python .\mainRag.py 
